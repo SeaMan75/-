@@ -1,0 +1,13 @@
+﻿  WServer.cpp
+d:\vcpkg_new\vcpkg\installed\x64-windows\include\websocketpp\frame.hpp(834,13): warning C4267: =: преобразование из "size_t" в "uint32_t"; возможна потеря данных
+  (компиляция исходного файла "WServer.cpp")
+  
+d:\vcpkg_new\vcpkg\installed\x64-windows\include\websocketpp\common\md5.hpp(367,29): warning C4267: +=: преобразование из "size_t" в "websocketpp::md5::md5_word_t"; возможна потеря данных
+  (компиляция исходного файла "WServer.cpp")
+  
+d:\vcpkg_new\vcpkg\installed\x64-windows\include\websocketpp\sha1\sha1.hpp(176,24): warning C4267: =: преобразование из "size_t" в "unsigned int"; возможна потеря данных
+  (компиляция исходного файла "WServer.cpp")
+  
+  WServer.vcxproj -> F:\VK_Projects\Mikhail_Barash\2025-01-20_01_Traveling\Project\Server\WServer\x64\Debug\WServer.exe
+  "pwsh.exe" не является внутренней или внешней
+  командой, исполняемой программой или пакетным файлом.
